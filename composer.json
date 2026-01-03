@@ -1,12 +1,12 @@
 {
     "name": "devscripts/module-cspdisable",
-    "description": "Magento2 extension to disable the csp module on frontend & admin",
+    "description": "Magento 2 extension that disables Content Security Policy (CSP) for both frontend and admin panels.",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Nadeem Khan",
+            "email": "khannadeem243@gmail.com"
         }
     ],
     "minimum-stability": "dev",
