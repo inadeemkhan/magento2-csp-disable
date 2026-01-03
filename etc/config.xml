@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/config.xsd">
+    <default>
+        <csp_disable>
+            <general>
+                <is_enable>0</is_enable>
+            </general>
+        </csp_disable>
+    </default>
+</config>
